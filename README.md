@@ -1,13 +1,13 @@
 ## Hi there 👋, my name is Haraneesh Shah
 
 <div style="display: flex; gap: 20px; align-items: center;">
-    <a href="https://discord.com" target="https://discordapp.com/users/694743276208521256">
+    <a href="https://discordapp.com/users/694743276208521256" target="_blank">
         <img src="https://raw.githubusercontent.com/Haraneesh8/Haraneesh8/main/assets/Discord_logo.png" width="150">
     </a>
-    <a href="https://linkedin.com" target="www.linkedin.com/in/haraneesh-shah">
+    <a href="https://www.linkedin.com/in/haraneesh-shah" target="_blank">
         <img src="https://raw.githubusercontent.com/Haraneesh8/Haraneesh8/main/assets/LinkedIn_logo.png" width="150">
     </a>
-    <a href="https://instagram.com" target="https://www.instagram.com/haraneesh18/">
+    <a href="https://www.instagram.com/haraneesh18/" target="_blank">
         <img src="https://raw.githubusercontent.com/Haraneesh8/Haraneesh8/main/assets/instagram_logo.jpg" width="150">
     </a>
 </div>

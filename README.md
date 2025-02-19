@@ -1,5 +1,8 @@
 ## Hi there 👋, my name is Haraneesh Shah
 
+<img src="https://github.com/Haraneesh8/Haraneesh8/blob/main/assets/Discord_logo.png">
+<img src="https://github.com/Haraneesh8/Haraneesh8/blob/main/assets/LinkedIn_logo.png">
+<img src ="https://github.com/Haraneesh8/Haraneesh8/blob/main/assets/instagram_logo.jpg">
 
 
 - 🔭 I’m currently working on ...

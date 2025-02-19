@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Haraneesh Shah
 
-<div style="display: flex; gap: 20px; align-items: center;">
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
     <a href="https://discordapp.com/users/694743276208521256" target="_blank">
         <img src="https://raw.githubusercontent.com/Haraneesh8/Haraneesh8/main/assets/Discord_logo.png" width="150">
     </a>

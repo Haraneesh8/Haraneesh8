@@ -2,13 +2,13 @@
 
 <div style="display: flex; gap: 20px; align-items: center;">
     <a href="https://discord.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/Haraneesh8/Haraneesh8/main/assets/Discord_logo.png" width="200">
+        <img src="https://raw.githubusercontent.com/Haraneesh8/Haraneesh8/main/assets/Discord_logo.png" width="150">
     </a>
     <a href="https://linkedin.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/Haraneesh8/Haraneesh8/main/assets/LinkedIn_logo.png" width="200">
+        <img src="https://raw.githubusercontent.com/Haraneesh8/Haraneesh8/main/assets/LinkedIn_logo.png" width="150">
     </a>
     <a href="https://instagram.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/Haraneesh8/Haraneesh8/main/assets/instagram_logo.jpg" width="200">
+        <img src="https://raw.githubusercontent.com/Haraneesh8/Haraneesh8/main/assets/instagram_logo.jpg" width="150">
     </a>
 </div>
 

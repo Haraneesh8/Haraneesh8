@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Haraneesh Shah
 
-<div style="display: flex; justify-content: center; gap: 40px; align-items: center; margin-bottom: 80px">
+<p align="center">
     <a href="https://discordapp.com/users/694743276208521256" target="_blank">
         <img src="https://raw.githubusercontent.com/Haraneesh8/Haraneesh8/main/assets/Discord_logo.png" width="150">
     </a>
@@ -10,7 +10,9 @@
     <a href="https://www.instagram.com/haraneesh18/" target="_blank">
         <img src="https://raw.githubusercontent.com/Haraneesh8/Haraneesh8/main/assets/instagram_logo.jpg" width="150">
     </a>
-</div>
+</p>
+
+<br><br>
 
 
 I'm a tech enthusiast who loves building cool stuff and solving problems. Whether it's coding, designing, or just figuring things out, I'm always up for a challenge!  

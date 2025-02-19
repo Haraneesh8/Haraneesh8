@@ -1,8 +1,16 @@
 ## Hi there 👋, my name is Haraneesh Shah
 
-<img src="https://github.com/Haraneesh8/Haraneesh8/blob/main/assets/Discord_logo.png">
-<img src="https://github.com/Haraneesh8/Haraneesh8/blob/main/assets/LinkedIn_logo.png">
-<img src ="https://github.com/Haraneesh8/Haraneesh8/blob/main/assets/instagram_logo.jpg">
+<div style="display: flex; gap: 20px; align-items: center;">
+    <a href="https://discord.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/Haraneesh8/Haraneesh8/main/assets/Discord_logo.png" width="50" height="50">
+    </a>
+    <a href="https://linkedin.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/Haraneesh8/Haraneesh8/main/assets/LinkedIn_logo.png" width="50" height="50">
+    </a>
+    <a href="https://instagram.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/Haraneesh8/Haraneesh8/main/assets/instagram_logo.jpg" width="50" height="50">
+    </a>
+</div>
 
 
 - 🔭 I’m currently working on ...
